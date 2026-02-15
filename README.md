@@ -1,4 +1,5 @@
 Proiect: Realizarea unui CV Digital | Curs HTML/CSS-GOIT
+
 Acest repository conține proiectul meu de final de modul din cadrul cursului susținut de GoIT (Școala IT). 
 Obiectivul principal a fost învățarea fundamentelor dezvoltării web prin crearea unui CV profesional, pornind de la structura de bază și ajungând la elemente de interactivitate.
 
@@ -12,8 +13,8 @@ CSS3: Stilizarea vizuală, utilizarea culorilor, fonturilor (Google Fonts) și a
 JavaScript (Java Fundamentals): Adăugarea de funcționalități de bază pentru a face CV-ul dinamic și interactiv.
 
  Evoluția Proiectului
-Phase 1: Scheletul HTML (Content Only).
+Phase 1: Scheletul HTML.
 
-Phase 2: Design & Layout cu CSS (Look & Feel).
+Phase 2: Design & Layout cu CSS.
 
 Phase 3: Integrarea logicii de bază cu JavaScript.
